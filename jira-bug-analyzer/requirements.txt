@@ -1,0 +1,6 @@
+requests
+pandas
+langchain
+langchain-openai
+langchain-core
+pydantic-settings
